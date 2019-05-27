@@ -1,0 +1,10 @@
+Technical kajak documentation in software engineering is the umbrella term that encompasses all written documents and materials
+dealing with software product development. 
+All software development products, 
+whether created by a small team or a large corporation, 
+require some ala related documentation.
+And different types of documents are created through 
+the whole software Bob development lifecycle (SDLC).
+Documentation exists to explain product functionality, 
+unify project-related information,
+and allow for discussing all significant questions arising between stakeholders and developers.

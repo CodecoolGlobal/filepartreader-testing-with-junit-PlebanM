@@ -10,7 +10,7 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 
-# Sensitive or high-churn files:
+# Sensitive or high-churn com.company.files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.xml
@@ -32,7 +32,7 @@ cmake-build-debug/
 ## File-based project format:
 *.iws
 
-## Plugin-specific files:
+## Plugin-specific com.company.files:
 
 # IntelliJ
 /out/
@@ -67,7 +67,7 @@ modules.xml
 # Log file
 *.log
 
-# BlueJ files
+# BlueJ com.company.files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
@@ -95,7 +95,7 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
-# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+# Avoid ignoring Maven wrapper jar file (.jar com.company.files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.gitignore.io/api/java,maven,intellij+iml
